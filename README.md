@@ -1,5 +1,10 @@
 # Description
 Terminal Application written in Python that Append each text that you copy in your PC.
+# Installation
+
+```sh
+git clone https://github.com/jockrow/term_append_clipboard.git
+```
 
 # Instructions
 
@@ -7,4 +12,5 @@ Terminal Application written in Python that Append each text that you copy in yo
 ```sh
 python append_clipboard.py
 ```
+
 2. Open the created file: clipboard_history.txt to see the content.
